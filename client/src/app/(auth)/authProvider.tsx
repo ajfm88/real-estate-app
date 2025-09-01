@@ -101,8 +101,8 @@ const components = {
 const formFields = {
   signIn: {
     username: {
-      placeholder: "Enter your email",
-      label: "Email",
+      placeholder: "Enter your email or username",
+      label: "Email or Username",
       isRequired: true,
     },
     password: {
